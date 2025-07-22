@@ -67,6 +67,8 @@ Excellent addition to a **data science portfolio**
  ## Contact
 
 **Created by:** Aman Kumar  
+**Email:** aman1782003@gmail.com
+**GitHub:** https://github.com/Aman-kumar-178.
 
 
 
